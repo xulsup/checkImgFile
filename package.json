@@ -1,0 +1,21 @@
+{
+  "name": "check-img-use",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "check-img-use": "cli/index.js"
+  },
+  "author": "xulsup@foxmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "commander": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=10.24"
+  }
+}
